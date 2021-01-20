@@ -1,0 +1,22 @@
+.form {
+    background-color: #171941;
+    color: #bf38ac;
+    padding-top: 30px;
+    padding-bottom: 50px;
+    margin-bottom: 0rem !important;
+}
+.list {
+    background-color: #171941;
+    padding-top: 30px;
+    padding-bottom: 150px;
+    margin-bottom: 0rem !important;
+
+}
+.title-top {
+    color: #bf38ac;
+}
+.list-meta {
+    background-color: #0d345d !important;
+    border-color: #4a0242 !important;
+    color: #fff;
+}
